@@ -34,6 +34,5 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
        
 
 
-[![linkedin](https://github.com/akrish4/akrish4/blob/master/1.png)](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)&nbsp;
-[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:8arpitdwivedi798@gmail.com)
+[![linkedin](https://github.com/akrish4/akrish4/blob/master/1.png)](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)&nbsp;[![mail](https://github.com/akrish4/akrish4/blob/master/2.png)](mailto:ananthakrishnannairrs@gmail.com)
  
