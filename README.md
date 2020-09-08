@@ -26,8 +26,8 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
     while(alive):
      if(skills == outdated):
        update_skills()
-       print("updating my skills to current industry needs")
+       print("updating my skills to fulfill current industry needs")
      else:
        master_previous_skills() 
-       print("improving my own skills to satisfy industry needs")
+       print("improving and practicing my own skills to satisfy industry needs")
  
