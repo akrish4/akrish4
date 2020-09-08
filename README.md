@@ -26,13 +26,12 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
     while(alive):
      if(skills == outdated):
        update_skills()
-       print("updating my skills to fulfill current industry needs")
      else:
        master_previous_skills() 
-       print("improving and practicing my own skills to satisfy industry needs")
        
        
-
+       
+-Communication:
  [![mail](https://github.com/akrish4/akrish4/blob/master/2.png)](mailto:ananthakrishnannairrs@gmail.com)&nbsp;[![linkedin](https://github.com/akrish4/akrish4/blob/master/1.png)](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)&nbsp;
  
  
