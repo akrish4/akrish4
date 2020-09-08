@@ -30,4 +30,12 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
      else:
        master_previous_skills() 
        print("improving and practicing my own skills to satisfy industry needs")
+       
+       
+       
+ <div class="social-icons"><a href="https://www.facebook.com/ananthakrishnannair.rs/" target="_blank"><i class="icon ion-social-facebook"></i></a><a href="https://www.instagram.com/akrish369" target="_blank"><i
+                        class="icon ion-social-instagram-outline"></i></a><a href="https://twitter.com/" target="_blank"><i
+                        class="icon ion-social-twitter"></i></a>
+                    <a href="https://www.linkedin.com/in/ananthakrishnan-nair-rs-742a05151/" target="_blank"><i class="icon ion-social-linkedin"></i></a></div>
+                              
  
