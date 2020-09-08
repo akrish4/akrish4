@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there!!
 
-<!--
-**akrish4/akrish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Here is what I'm working on!👋** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ....***web devlopment***
+- 🌱 I’m currently learning .... **python and javascript**
+- 👯 I’m looking to collaborate on .... **python and ML**
+- 🤔 I’m looking for help with .... **andriod devlopment** *and* **cloud computing**
+- 💬 Ask me about .... **web development** *and* **c++**
+- 📫 How to reach me: .... [email.me](ananthakrishnannairrs@gmail.com "mail")
+- 😄 Pronouns: .... he/him
+- ⚡ Fun fact: ..... I can grasp interested contents fastly
 -->
