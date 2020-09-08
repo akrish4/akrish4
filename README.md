@@ -22,10 +22,12 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
  
  
     #python code  my own creation
+    
     while(alive):
-
-    if(skills == outdated):
-      update_skills()
-    else:
-      master_previous_skills()  
+     if(skills == outdated):
+       update_skills()
+       print("updating my skills to current industry needs")
+     else:
+       master_previous_skills() 
+       print("improving my own skills to satisfy industry needs")
  
