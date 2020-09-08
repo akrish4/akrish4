@@ -13,7 +13,7 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I take less coffee!
 
-- My LinkedIn Profile : ....[linkedin](linkedin.com/in/ananthakrishnan-nair-rs-742a05151)
+- My LinkedIn Profile : .... [linkedin](linkedin.com/in/ananthakrishnan-nair-rs-742a05151)
 ---
 
 >Keep Smiling and Work Hard
