@@ -29,8 +29,8 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
      else:
        master_previous_skills() 
      
-     
- *Communication:
+  ---   
+ 
  [![mail](https://github.com/akrish4/akrish4/blob/master/2.png)](mailto:ananthakrishnannairrs@gmail.com)&nbsp;[![linkedin](https://github.com/akrish4/akrish4/blob/master/1.png)](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)&nbsp;
  
  
