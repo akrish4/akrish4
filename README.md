@@ -20,12 +20,13 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
 ---
 
 '''
-while(alive){
+
+    while(alive){
 
     if(skills==outdated)
       update_skills()
     else
       master_previous_skills()
 
-}
+    }
 '''
