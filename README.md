@@ -1,7 +1,7 @@
 ### Hi there 👋
+## I am Ananthakrishnan Nair RS. My interests are in Machine Learning , Computer vision , Web Development. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 
-
-**Here is what I'm working on!** 
+### **Here is what I'm working on!** 
 ---
 
 - 🔭 I’m currently working on ....***web devlopment***
@@ -13,3 +13,4 @@
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I can grasp interested contents fastly
 
+>Good Times come after Hard Times
