@@ -4,14 +4,14 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
 ***
 
 
-- 🔭 I’m currently working on ....***a blog using django(python)***
+- 🔭 I’m currently working on ....***web development using django(python)***
 - 🌱 I’m currently learning .... **python and javascript**
 - 👯 I’m looking to collaborate on .... **AI and ML**
-- 🤔 I’m looking for help with .... **application development** *and* **cloud computing**
+- 🤔 I’m looking for help with .... **andriod development** *and* **cloud computing**
 - 💬 Ask me about .... **SQL,PHP** *and* **programming-C++,java,python**
-- 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") *or* you can contact me via ananthakrishnannairrs@gmail.com
+- 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") ***or*** you can contact me via ananthakrishnannairrs@gmail.com
 - 😄 Pronouns: .... he/him
-- ⚡ Fun fact: ..... I am on fire!
+- ⚡ Fun fact: ..... I take less coffee!
 
 ---
 
