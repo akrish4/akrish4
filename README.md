@@ -19,9 +19,9 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
 
 ---
 
-
-    '''python
-
+ '''python
+ 
+    #python code  my own creation
     while(alive):
 
     if(skills == outdated):
@@ -30,4 +30,5 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
       master_previous_skills()
 
     
-    '''
+    
+  '''
