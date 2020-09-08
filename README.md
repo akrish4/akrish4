@@ -9,7 +9,7 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
 - 👯 I’m looking to collaborate on .... **Computer Vision and ML**
 - 🤔 I’m looking for help with .... **application development** *and* **cloud computing**
 - 💬 Ask me about .... **SQL,PHP** *and* **programming-C++,java,python**
-- 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") *and* ananthakrishnannairrs@gmail.com
+- 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") *or* you can contact me via ananthakrishnannairrs@gmail.com
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I am on fire!
 
