@@ -2,7 +2,7 @@
 
 I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 ***
----
+
 
 - 🔭 I’m currently working on ....***web devlopment and django(python)***
 - 🌱 I’m currently learning .... **python and javascript**
@@ -17,3 +17,15 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
 
 >Keep Smiling and Work Hard
 
+---
+
+'''
+while(alive){
+
+    if(skills==outdated)
+      update_skills()
+    else
+      master_previous_skills()
+
+}
+'''
