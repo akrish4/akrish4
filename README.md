@@ -6,13 +6,13 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
 **Here is what I'm working on!** 
 ---
 
-- 🔭 I’m currently working on ....***web devlopment***
-- 🌱 I’m currently learning .... ** and javascript**
-- 👯 I’m looking to collaborate on .... **python and ML**
-- 🤔 I’m looking for help with .... **andriod devlopment** *and* **cloud computing**
+- 🔭 I’m currently working on ....***web devlopment and django(python)***
+- 🌱 I’m currently learning .... **python and javascript**
+- 👯 I’m looking to collaborate on .... **Computer Vision and ML**
+- 🤔 I’m looking for help with .... **application development** *and* **cloud computing**
 - 💬 Ask me about .... **web development** *and* **programming**
-- 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio")
+- 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") *and* ananthakrishnannairrs@gmail.com
 - 😄 Pronouns: .... he/him
-- ⚡ Fun fact: ..... I can grasp interested contents fastly
+- ⚡ Fun fact: ..... I am on fire!
 
-'Good Times come after Hard Times
+'Good Times come after Hard Times'
