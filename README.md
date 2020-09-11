@@ -30,10 +30,11 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
      else:
        master_previous_skills() 
      
-  ---   
+  ---  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4)](https://github.com/anuraghazra/github-readme-stats)
+
  
- 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
  ---
  [![mail](https://github.com/akrish4/akrish4/blob/master/2.png)](mailto:ananthakrishnannairrs@gmail.com)&nbsp;[![linkedin](https://github.com/akrish4/akrish4/blob/master/1.png)](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)&nbsp;
  
