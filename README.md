@@ -34,11 +34,11 @@ I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , *
  
  [![mail](https://github.com/akrish4/akrish4/blob/master/2.png)](mailto:ananthakrishnannairrs@gmail.com)&nbsp;[![linkedin](https://github.com/akrish4/akrish4/blob/master/1.png)](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)&nbsp;
  
- ### Connect with me:
+ ### Connect with me:742a05151/)&
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][![linkedin]<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)
 [<img align="left" alt="gmail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][gmail]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<a href=" https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]</a>[instagram]
 
 <br />
 
