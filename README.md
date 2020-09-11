@@ -34,7 +34,7 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4)](https://github.com/anuraghazra/github-readme-stats)
 
  
  ---
