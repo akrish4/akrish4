@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am ***Ananthakrishnan Nair RS.*** My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
+I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'm very hardworking and determined and I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 ***
 
 
