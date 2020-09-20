@@ -53,10 +53,11 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
     <img align="left" alt="AK | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
   </a>
 
-
+<br>
 ---
+<br>
 
-
+  
   
 ### Languages and Tools:
 
