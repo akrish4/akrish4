@@ -29,7 +29,7 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
      
   ---  
 
-
+## Github Stats:
 ![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api/?username=akrish4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,7 +51,6 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
  <a href="https://in.linkedin.com/in/itsbhanupratap">
     <img align="left" alt="Bhanu pratap | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
   </a>
-  [![mail](https://github.com/akrish4/akrish4/blob/master/2.png)](mailto:ananthakrishnannairrs@gmail.com)
 
   
 ### Languages and Tools:
