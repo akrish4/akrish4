@@ -36,21 +36,24 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
 
  
  ---
+ 
   #### Connect with me :D
  
 <a href="https://instagram.com/akrish369">
-    <img align="left" alt="Bhanu Pratap | Instagram" width="40px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
+    <img align="left" alt="Ananthakrishnan | Instagram" width="40px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
   </a>
 
 <a href="https://facebook.com/Ananthakrishnan">
-    <img align="left" alt="Bhanu pratap | Facebook" width="40px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />
+    <img align="left" alt="AK | Facebook" width="40px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />
   </a>
 <a href="https://twitter.com/">
     <img align="left" alt="AK | Twitter" width="40px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />
   </a>
- <a href="https://in.linkedin.com/in/itsbhanupratap">
-    <img align="left" alt="Bhanu pratap | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+ <a href="https://in.linkedin.com/in/Ananthakrishnan-Nair-RS">
+    <img align="left" alt="AK | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
   </a>
+
+---
 
   
 ### Languages and Tools:
