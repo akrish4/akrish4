@@ -48,7 +48,9 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
 <a href="https://twitter.com/">
     <img align="left" alt="AK | Twitter" width="40px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />
   </a>
-  [![linkedin](https://github.com/akrish4/akrish4/blob/master/1.png)](https://linkedin.com/in/ananthakrishnan-nair-rs-742a05151/)
+ <a href="https://in.linkedin.com/in/itsbhanupratap">
+    <img align="left" alt="Bhanu pratap | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  </a>
   [![mail](https://github.com/akrish4/akrish4/blob/master/2.png)](mailto:ananthakrishnannairrs@gmail.com)
 
   
@@ -67,7 +69,6 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
 
 
 
