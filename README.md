@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ananthakrishnan Nair RS</h1>
-
-
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<h3 align="center">A   full-stack developer 🤓 from India 🇮🇳</h3>
  
  I am pursuing my B.E. in Computer Science.I'm very hardworking and determined and I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 ***
@@ -39,8 +37,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  
-![Visitor Count](https://profile-counter.glitch.me/{akrish4}/count.svg)
- 
+
  ---
  
   #### Connect with me :D
