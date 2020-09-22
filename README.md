@@ -1,7 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-
-
-
 ### Hi there 👋 
 
 I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'm very hardworking and determined and I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
@@ -81,4 +77,4 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{akrish4}/count.svg)
