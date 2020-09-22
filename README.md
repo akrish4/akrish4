@@ -2,6 +2,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ananthakrishnan Nair RS</h1>
 <h3 align="center">A   full-stack developer 🤓 from India 🇮🇳</h3>
  
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=rahuldkjain/> </p>
  I am pursuing my B.E. in Computer Science.I'm very hardworking and determined and I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 ***
 
@@ -14,7 +15,6 @@
 - 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") ***or*** you can contact me via ananthakrishnannairrs@gmail.com 
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I take less coffee!
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=rahuldkjain/> </p>
 
 ---
 
@@ -35,7 +35,7 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&theme=dark&layout=compact alt=akrish4 /> </p>
 <p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=dark&layout=compact /> </p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
  
 
