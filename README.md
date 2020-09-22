@@ -1,5 +1,4 @@
-![alt text](https://github.com/akrish4/akrish4/blob/master/image1.png)
-<p align="center" >
+
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -17,7 +16,7 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
 - 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") ***or*** you can contact me via ananthakrishnannairrs@gmail.com 
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I take less coffee!
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=rahuldkjain/> </p>
 
 ---
 
