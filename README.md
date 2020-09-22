@@ -1,5 +1,5 @@
 ![alt text](https://github.com/akrish4/akrish4/blob/master/image1.png)
-<p align="center" position="100%">
+<p align="center" >
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
