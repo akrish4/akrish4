@@ -33,7 +33,9 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
 ![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api/?username=akrish4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+ 
+![Visitor Count](https://profile-counter.glitch.me/{akrish4}/count.svg)
  
  ---
  
@@ -76,8 +78,6 @@ I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/github.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-## Visitor's Count : 
-![Visitor Count](https://profile-counter.glitch.me/{akrish4}/count.svg)
 
 
 
