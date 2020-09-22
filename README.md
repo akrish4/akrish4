@@ -1,4 +1,4 @@
-![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/images (1)_Large.mp4)
+![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/images.jfif)
 <p align="center">
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
