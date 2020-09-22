@@ -1,9 +1,9 @@
 ![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/Screenshot_4.png)
 <p align="center">
 
-### Hi there 👋 
- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
+ 
 I am ***Ananthakrishnan Nair RS.*** I am pursuing my B.E. in Computer Science.I'm very hardworking and determined and I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 ***
 
