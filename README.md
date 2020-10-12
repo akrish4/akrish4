@@ -31,8 +31,8 @@
   ---  
 
 <h1><p align="center" > Github Stats: </p></h1>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&theme=dark&layout=compact alt=akrish4 /> </p>
-<p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=dark&layout=compact /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&layout=compact alt=akrish4 /> </p>
+<p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact /> </p>
 
 
  
