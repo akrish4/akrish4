@@ -40,8 +40,7 @@
 
  ---
  
-  #### Connect with me :D
- 
+  #### Connect with me </> 
 <a href="https://instagram.com/akrish369">
     <img align="left" alt="Ananthakrishnan | Instagram" width="40px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
   </a>
