@@ -6,11 +6,11 @@
 
  I am pursuing my B.E. in Computer Science.I'm very hardworking and determined and I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 ***
-- 🔭 I’m currently working on ....***web development using django(python)***
-- 🌱 I’m currently learning .... **python and javascript**
-- 👯 I’m looking to collaborate on .... **AI and ML**
-- 🤔 I’m looking for help with .... **andriod development** *and* **cloud computing**
-- 💬 Ask me about .... **SQL,PHP** *and* **programming-C++,java,python**
+- 🔭 I’m currently working on ....***ml ***
+- 🌱 I’m currently learning .... **python**
+- 👯 I’m looking to collaborate on .... **open source projects**
+- 🤔 I’m looking for help with .... **ml** *and* **js**
+- 💬 Ask me about .... **SQL*,*python*, *java**
 - 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") ***or*** you can contact me via ananthakrishnannairrs@gmail.com 
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I take less coffee!
