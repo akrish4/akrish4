@@ -4,6 +4,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=rahuldkjain/> </p>
 
 
+
  I am pursuing my B.E. in Computer Science. I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
 ***
 - 🔭 I’m currently working on ....***ml***
@@ -56,8 +57,9 @@
     <img align="left" alt="AK | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
   </a>
 
-<br>
 
+<br>
+<br>
 <br>
 
  
