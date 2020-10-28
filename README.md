@@ -50,7 +50,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact&theme=tokyonight)
+
 
  
 
