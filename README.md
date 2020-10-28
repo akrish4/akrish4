@@ -4,9 +4,9 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=rahuldkjain/> </p>
 
 
+## Me 👨‍💻 
+A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software. When I am not coding, I _BLOG_
 
- I am pursuing my B.E. in Computer Science. I like to learn and experience new things in my life.I am proficient in c++,java,python. My interests are in **Machine Learning** , **Computer vision** , **Web Development**. I like to learn and experience new things in my life. I am always open for new opportunities and connections. 
-***
 - 🔭 I’m currently working on ....***ml***
 - 🌱 I’m currently learning .... **python**
 - 👯 I’m looking to collaborate on .... **open source projects**
@@ -15,8 +15,6 @@
 - 📫 How to reach me: .... [my_portfolio](https://akrish4.github.io/online-portfolio/ "online_portfolio") ***or*** you can contact me via ananthakrishnannairrs@gmail.com 
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I take less coffee!
-
----
 
 ### Projects 🖤
 <img align="right" src="https://github.com/akrish4/akrish4/blob/master/coding-freak.gif" width="32%"/>
@@ -43,7 +41,7 @@
      else:
        master_previous_skills() 
      
-  ---  
+ 
 
 <h1><p align="center" > Github Stats: </p></h1>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&layout=compact alt=akrish4 /> </p>
@@ -53,7 +51,7 @@
  
  
 
- ---
+
  
   #### Connect with me </> 
 <a href="https://instagram.com/akrish369">
