@@ -43,8 +43,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 <h1><p >My Github Stats: </p></h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akrish4&&show_icons=true&title_color=white&icon_color=2551E6&text_color=white&bg_color=white" width="100%"/><br>
-<p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact width="80%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=akrish4&&show_icons=true&title_color=white&icon_color=2551E6&text_color=green&bg_color=black" width="70%"/><br>
+<p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact width="50%" /> </p>
 
 
  
