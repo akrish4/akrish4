@@ -19,7 +19,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 ### Projects 🖤
 <img align="right" src="https://github.com/akrish4/akrish4/blob/master/coding-freak.gif" width="32%"/>
 
-- [News-Scrap](https://github.com/ManishShah120/news-scrap)❤️
+- ❤️
 - [Bloger(An open source project)](https://github.com/)[django, python, html, css]
 - [Google Playstore Analysis](https://github.com)[Pandas, Numpy, Matplotlib, Seaborn, jovian]
 - [Facial Expression Detection](https://github.com/) [PyTorch, ResNet-9-18-34, Pandas, Numpy, Matplotlib]
