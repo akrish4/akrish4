@@ -18,6 +18,18 @@
 
 ---
 
+### Projects 🖤
+<img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
+
+- [News-Scrap](https://github.com/ManishShah120/news-scrap)❤️
+- [Bloger(An open source project)](https://github.com/harsh-9in/Blogger)[django, python, html, css]
+- [Google Playstore Analysis](https://github.com/ManishShah120/GooglePlayStoreAnalysis/blob/main/GooglePlayStoreAnalysis.ipynb)[Pandas, Numpy, Matplotlib, Seaborn, jovian]
+- [Facial Expression Detection](https://github.com/ManishShah120/facial-expression-detector) [PyTorch, ResNet-9-18-34, Pandas, Numpy, Matplotlib]
+- [Weather Forecaster1.2](https://github.com/ManishShah120/Weather-Forecaster1.2)[Python, bs4, requests, Web Scraping]
+- [Developer Card](https://github.com/ManishShah120/Flutter_Dev-Card)[Android/iOS App, Flutter, Dart]
+- [Personal Blogging Site](https://github.com/ManishShah120/SETYO_BloggingSite)[Docker, php, wordpress, yaml]
+- [Smart Waste Management System(Website)](https://github.com/ManishShah120/Smart-Waste-Management-System)[Html, Css, Js, Google Map API]
+- [Early Flood Prediction System](https://github.com/ManishShah120/Early-Flood-Prediction-System/)[Html, Css, Js]
 
 
 >Keep Smiling and Work Hard
