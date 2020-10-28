@@ -29,6 +29,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - [Smart Waste Management System(Website)](https://github.com)[Html, Css, Js, Google Map API]
 - [Early Flood Prediction System](https://github.com/)[Html, Css, Js]
 
+ ***
  
     #python code  my own creation
     
@@ -89,7 +90,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-
+---
 
 >Keep Smiling and Work Hard
 
