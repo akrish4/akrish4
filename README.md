@@ -24,6 +24,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - [Weather Predictor Web App](https://github.com/)[Python, bs4, requests, Web Scraping]
 - [Portfolio(Website)](https://github.com)[Html, Css, Js BS4]
 - [Salary Prediction System](https://github.com/)[Html, Css, Js , BS4 , Flask , Pandas , Matplotlib , Numpy]
+- [E-commerce (Website)](https://github.com)[Html, Css, Js BS4]
+- [E-Store Mobile (Website)](https://github.com)[Html, Css, Js BS4]
 
  ***
  
