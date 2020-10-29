@@ -49,7 +49,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact&theme=tokyonight"/>
 
 [![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&count_private=true&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compactshow_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
