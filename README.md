@@ -29,17 +29,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - [E-commerce (Website)](https://github.com)[Html, Css, Js BS4]
 - [E-Store Mobile (Website)](https://github.com)[Html, Css, Js BS4]
 
- ***
- 
-    #python code  my own creation
-    
-    while(alive):
-     if(skills == outdated):
-       update_skills()
-     else:
-       master_previous_skills() 
-     
- 
+
+   
 
 <h1><p >My Github Stats: </p></h1>
 
@@ -93,7 +84,15 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
-
+ ***
+ 
+    #python code  my own creation
+    
+    while(alive):
+     if(skills == outdated):
+       update_skills()
+     else:
+       master_previous_skills() 
 ---
 
 >Keep Smiling and Work Hard
