@@ -20,6 +20,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <img align="right" src="https://github.com/akrish4/akrish4/blob/master/coding-freak.gif" width="32%"/>
 
 
+
 - ❤️
 - [Bloger(An open source project)](https://github.com/)[django, python, html, css]
 - [Weather Predictor Web App](https://github.com/)[Python, bs4, requests, Web Scraping]
