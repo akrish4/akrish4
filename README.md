@@ -28,6 +28,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - [Salary Prediction System](https://github.com/)[Html, Css, Js , BS4 , Flask , Pandas , Matplotlib , Numpy]
 - [E-commerce (Website)](https://github.com)[Html, Css, Js BS4]
 - [E-Store Mobile (Website)](https://github.com)[Html, Css, Js BS4]
+- [ML model Deployed using Flask](https://github.com/akrish4/Deploy-ML-model-using-flask)
 
 
 
