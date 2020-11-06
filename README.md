@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ananthakrishnan Nair RS</h1>
 <h3 align="center">A   full-stack developer 🤓 from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=akrish4/> </p>
+
 
 
 ## Me 👨‍💻 
@@ -36,6 +36,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 <h1><p >My Github Stats: </p></h1>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=akrish4/> </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akrish4&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
 <br>
