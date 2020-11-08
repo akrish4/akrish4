@@ -35,7 +35,7 @@ Yo
 
    
 
-<h1><p >My Github Stats: </p></h1>
+<h1><p >My Github Stats:❤️ </p></h1>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=akrish4/> </p>
 <p align="center">
