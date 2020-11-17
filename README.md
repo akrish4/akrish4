@@ -88,19 +88,18 @@ Yo
 
 
 
- ***
  
-    ```python
-    #python code  my own creation
-    while(alive):
+ 
+  ```python
+  #python code  my own creation
+   while(alive):
      if(skills == outdated):
        update_skills()
      else:
-       master_previous_skills() 
+       master_previous_skills()  
      ``` 
----
 
->Keep Smiling and Work Hard
+`Keep Smiling and Work Hard`
 
 
 
