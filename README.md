@@ -22,6 +22,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
+
 - Yo❤️
 - [Bloger(An open source project)](https://github.com/)[django, python, html, css]
 - [Weather Predictor Web App](https://github.com/)[Python, bs4, requests, Web Scraping]
