@@ -14,6 +14,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - 😄 Pronouns: .... he/him
 - ⚡ Fun fact: ..... I take less coffee!
 
+
 ### Projects 🖤
 <img align="right" src="https://github.com/akrish4/akrish4/blob/master/coding-freak.gif" width="32%"/>
 
