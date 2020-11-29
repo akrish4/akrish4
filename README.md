@@ -44,9 +44,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact&theme=tokyonight"/>
 
-[![Ananthakrishnan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrish4)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Ananthakrishnan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrish44)](https://github.com/anuraghazra/github-readme-stats)
  
  
 
