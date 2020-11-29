@@ -34,8 +34,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <h1><p >My Github Stats:❤️ </p></h1>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=akrish4/> </p>
-<p align="center">
-   
+
+<p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=akrish4&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
 <br>
 </br>
@@ -45,8 +45,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact&theme=tokyonight"/>
 
 
-[![Ananthakrishnan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrish44)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Ananthakrishnan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrish4)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
  
 
 
