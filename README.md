@@ -15,18 +15,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - ⚡ Fun fact: ..... I take less coffee!
 
 
-## Tech Stack
-- 🌱 I’m currently working on Python.
-- **Framework -**  Django,  Flask.
-- **Testing Framework -** --
-- **Database -** PostgreSQL, MySQL.
-- **Programming Language -** C, C++, Java ,  Python, PHP.
-- **Job Scheduler -** --
-- **Voice Assistant -** Actions on Google
-- **Tool -**  Git, Github.
-- **Other -** API , Java.
-- 💬 Ask me about anything related to tech!
-- 📫 Reach out to me :v: <br>
+
+## 📫 Reach out to me :v: <br>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
