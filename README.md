@@ -100,13 +100,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 ## Projects
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work" width="45%" height="100%">](https://github.com/akrish4/php-work)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Management-System)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=radical" width="45%" height="100%"/>](https://github.com/shoaibrayeen/API-Testing-Automation)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=react" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Url-Shortener)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Accident-Prevention&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Accident-Prevention)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Creation-Application&theme=blueberry" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Creation-Application)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Chatbot&theme=dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Chatbot)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Heart-Disease-Predictor)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Buffer-Cache-Simulation)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="45%" height="100%"/>](https://github.com/shoaibrayeen/File-Transfer-Protocol)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="45%" height="100%">](https://github.com/akrish4/php-work)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="45%" height="100%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Django-Weather-Web-App&theme=radical" width="45%" height="100%"/>](https://github.com/akrish4/Django-Weather-Web-App)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Deploy-ML-model-using-flask&theme=react" width="45%" height="100%"/>](https://github.com/akrish4/Deploy-ML-model-using-flask)
