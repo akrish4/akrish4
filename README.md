@@ -29,7 +29,13 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-   
+ - 📫 Reach out to me :v: <br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/akrish4)
+
 
 <h1><p >My Github Stats:❤️ </p></h1>
 
@@ -99,5 +105,14 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-
-
+## Projects
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=highcontrast" width="45%" height="100%">](https://github.com/shoaibrayeen/Exchange-Management-System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Management-System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=radical" width="45%" height="100%"/>](https://github.com/shoaibrayeen/API-Testing-Automation)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=react" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Url-Shortener)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Accident-Prevention&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Accident-Prevention)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Creation-Application&theme=blueberry" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Creation-Application)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Chatbot&theme=dark" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Chatbot)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Heart-Disease-Predictor)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Buffer-Cache-Simulation)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="45%" height="100%"/>](https://github.com/shoaibrayeen/File-Transfer-Protocol)
