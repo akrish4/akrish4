@@ -100,7 +100,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 ## Projects
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="40%" height="97%"/>](https://github.com/akrish4/php-work)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="40%" height="95%"/>](https://github.com/akrish4/php-work)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="45%" height="100%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="97%"/>](https://github.com/akrish4/Django-Weather-Web-App)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Django-Weather-Web-App)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Deploy-ML-model-using-flask&theme=react" width="45%" height="100%"/>](https://github.com/akrish4/Deploy-ML-model-using-flask)
