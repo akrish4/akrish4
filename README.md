@@ -16,18 +16,15 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 ## Tech Stack
-- 🌱 I’m currently working on Spring Boot, Angular 9, PostgreSQL and Karate.
-- **Framework -** Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
-- **Testing Framework -** Karate, RSpec
-- **Database -** PostgreSQL, MySQL, DynamoDB
-- **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js
-- **Cache -** Redis, Aerospike, Amazon S3
-- **Job Scheduler -** Sidekiq
-- **Search Engine -** ElasticSearch
-- **Voice Assistant -** Alexa, Actions on Google
-- **Tool -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube
-- **Monitoring -** Kibaana, RPM
-- **Other -** REST API, Agile Development, Microservice Architecture
+- 🌱 I’m currently working on Python.
+- **Framework -**  Django,  Flask.
+- **Testing Framework -** --
+- **Database -** PostgreSQL, MySQL.
+- **Programming Language -** C, C++, Java ,  Python, PHP.
+- **Job Scheduler -** --
+- **Voice Assistant -** Actions on Google
+- **Tool -**  Git, Github.
+- **Other -** API , Java.
 - 💬 Ask me about anything related to tech!
 - 📫 Reach out to me :v: <br>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
@@ -66,26 +63,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
 
 
- 
-  #### Connect with me </> 
-<a href="https://instagram.com/akrish369">
-    <img align="left" alt="Ananthakrishnan | Instagram" width="40px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
-  </a>
 
-<a href="https://facebook.com/Ananthakrishnan">
-    <img align="left" alt="AK | Facebook" width="40px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />
-  </a>
-<a href="https://twitter.com/">
-    <img align="left" alt="AK | Twitter" width="40px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />
-  </a>
- <a href="https://in.linkedin.com/in/Ananthakrishnan-Nair-RS">
-    <img align="left" alt="AK | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
-  </a>
-
-
-<br>
-<br>
-<br>
 
  
 ### Languages and Tools:
@@ -122,7 +100,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 ## Projects
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=highcontrast" width="45%" height="100%">](https://github.com/shoaibrayeen/Exchange-Management-System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work" width="45%" height="100%">](https://github.com/akrish4/php-work)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Management-System)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=radical" width="45%" height="100%"/>](https://github.com/shoaibrayeen/API-Testing-Automation)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=react" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Url-Shortener)
