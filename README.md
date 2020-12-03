@@ -15,7 +15,29 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - ⚡ Fun fact: ..... I take less coffee!
 
 
-### Projects 🖤
+## Tech Stack
+- 🌱 I’m currently working on Spring Boot, Angular 9, PostgreSQL and Karate.
+- **Framework -** Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
+- **Testing Framework -** Karate, RSpec
+- **Database -** PostgreSQL, MySQL, DynamoDB
+- **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js
+- **Cache -** Redis, Aerospike, Amazon S3
+- **Job Scheduler -** Sidekiq
+- **Search Engine -** ElasticSearch
+- **Voice Assistant -** Alexa, Actions on Google
+- **Tool -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube
+- **Monitoring -** Kibaana, RPM
+- **Other -** REST API, Agile Development, Microservice Architecture
+- 💬 Ask me about anything related to tech!
+- 📫 Reach out to me :v: <br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/akrish4)
+
+
+### My Works 🖤
 <img align="right" src="https://github.com/akrish4/akrish4/blob/master/coding-freak.gif" width="32%"/>
 
 - Yo❤️
@@ -29,13 +51,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
- - 📫 Reach out to me :v: <br>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/akrish4)
-
+ 
 
 <h1><p >My Github Stats:❤️ </p></h1>
 
