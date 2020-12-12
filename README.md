@@ -45,8 +45,9 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=akrish4/> </p>
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?theme=chartreuse-dark&username=akrish4&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=chartreuse-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
