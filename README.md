@@ -49,9 +49,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=github-readme-stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=convoychat" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrish4)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=chartreuse-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
