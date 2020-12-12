@@ -44,15 +44,17 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=akrish4/> </p>
 
-<p align="center"> 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=github-readme-stats" />
 </a>
- <a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=convoychat" />
 </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=chartreuse-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
