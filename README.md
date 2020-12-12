@@ -47,6 +47,8 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=akrish4&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
 <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&layout=compact&theme=tokyonight"/>
+</p>
 
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
