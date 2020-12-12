@@ -45,7 +45,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4 alt=akrish4/> </p>
 
 
-![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&count_private=true)
+![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=chartreuse-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
