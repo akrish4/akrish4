@@ -24,24 +24,10 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/akrish4)
 
 
-### My Works 🖤
-<img align="right" src="https://github.com/akrish4/akrish4/blob/master/coding-freak.gif" width="32%"/>
-- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="40%" height="95%"/>](https://github.com/akrish4/php-work)
- 
-- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
-
-- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Django-Weather-Web-App)
-
-- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Deploy-ML-model-using-flask&theme=react" width="46%" height="97%"/>](https://github.com/akrish4/Deploy-ML-model-using-flask)
 
  
 
 <h1><p >My Github Stats:❤️ </p></h1>
-
-
-
- 
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
