@@ -26,14 +26,6 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 ### My Works 🖤
 <img align="right" src="https://github.com/akrish4/akrish4/blob/master/coding-freak.gif" width="32%"/>
-- [Bloger(An open source project)](https://github.com/)[django, python, html, css]
-- [Weather Predictor Web App](https://github.com/)[Python, bs4, requests, Web Scraping]
-- [Portfolio(Website)](https://github.com)[Html, Css, Js BS4]
-- [Salary Prediction System](https://github.com/)[Html, Css, Js , BS4 , Flask , Pandas , Matplotlib , Numpy]
-- [E-commerce (Website)](https://github.com)[Html, Css, Js BS4]
-- [E-Store Mobile (Website)](https://github.com)[Html, Css, Js BS4]
-- [ML model Deployed using Flask](https://github.com/akrish4/Deploy-ML-model-using-flask)
-
 
 
  
@@ -41,7 +33,10 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 <h1><p >My Github Stats:❤️ </p></h1>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4&alt=akrish4/> </p>
-
+- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="40%" height="95%"/>](https://github.com/akrish4/php-work)
+- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
+- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Django-Weather-Web-App)
+- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Deploy-ML-model-using-flask&theme=react" width="46%" height="97%"/>](https://github.com/akrish4/Deploy-ML-model-using-flask)
 
  
 
