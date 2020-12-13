@@ -3,7 +3,7 @@
 <h3 align="center">A   full-stack developer 🤓 from India 🇮🇳</h3>
 
 ## Me 👨‍💻 
-A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software. When I am not coding, I _BLOG_
+A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software. 
 
 - 🔭 I’m currently working on ....***ml***
 - 🌱 I’m currently learning .... **python**
@@ -42,14 +42,14 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akrish4&alt=akrish4/> </p>
 
-<div class="row">
+
  
-![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true)
+
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
 
