@@ -16,7 +16,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-## 📫 Reach out to me :v: <br>
+# 📫 Reach out to me :v: <br> 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
@@ -27,7 +27,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
  
 
-<h1><p >My Github Stats:❤️ </p></h1>
+# My Github Stats:❤️ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=merko&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -40,7 +40,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
  
-### Languages and Tools:
+# Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -62,7 +62,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-## Projects
+# Projects
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="40%" height="95%"/>](https://github.com/akrish4/php-work)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Django-Weather-Web-App)
