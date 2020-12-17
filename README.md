@@ -16,7 +16,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-# 📫 Reach out to me :v: <br> 
+# 📫 Reach out to me : <br> 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
