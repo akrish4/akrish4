@@ -16,12 +16,6 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-# 📫 Reach out to me : <br> 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/Ananthakrishnan-Nair-RS)
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/akrish4)
 
 
 
@@ -74,3 +68,10 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Django-Weather-Web-App)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Deploy-ML-model-using-flask&theme=react" width="46%" height="97%"/>](https://github.com/akrish4/Deploy-ML-model-using-flask)
 
+
+# 📫 Reach out to me : 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/Ananthakrishnan-Nair-RS)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/akrish4)
