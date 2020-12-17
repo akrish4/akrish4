@@ -9,10 +9,9 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - 🌱 I’m currently learning .... **python**
 - 👯 I’m looking to collaborate on .... **open source projects**
 - 🤔 I’m looking for help with .... **ml** *and* **js**
-- 💬 Ask me about .... ***SQL*,*python*, *java***
+- 💬 Ask me about .... ***SQL*,*python*, *cpp***
 - 📫 How to reach me: .... you can contact me via ananthakrishnannairrs@gmail.com 
-- 😄 Pronouns: .... he/him
-- ⚡ Fun fact: ..... I take less coffee!
+
 
 
 
