@@ -34,7 +34,6 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-
  
 # Languages and Tools:
 
