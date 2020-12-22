@@ -62,12 +62,12 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Salary_Predictor_deployed_flask&theme=react" width="46%" height="97%"/>](https://github.com/akrish4/Salary_Predictor_deployed_flask)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=madlibs_randomly_fun&theme=react" width="40%" height="95%"/>](https://github.com/akrish4/madlibs_randomly_fun)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Virtual_Piano&theme=radical" width="46%" height="97%"/>](https://github.com/akrish4/Virtual_Piano)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Analysis-of-Sales-Report&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Analysis-of-Sales-Report)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Django-Weather-Web-App)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Guess_Number&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Guess_Number)
 
 
 
-
+Analysis-of-Sales-Report
 # 📫 Reach out to me : 
 # [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Ananthakrishnan-Nair-RS)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ananthakrishnan-Nair-RS)
