@@ -57,7 +57,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 # Projects
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="42%" height="95%"/>](https://github.com/akrish4/php-work)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="46%" height="98%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=radical" width="40%" height="95%"/>](https://github.com/akrish4/Django-Weather-Web-App)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Salary_Predictor_deployed_flask&theme=react" width="46%" height="97%"/>](https://github.com/akrish4/Salary_Predictor_deployed_flask)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=madlibs_randomly_fun&theme=react" width="40%" height="95%"/>](https://github.com/akrish4/madlibs_randomly_fun)
