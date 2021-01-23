@@ -13,7 +13,6 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - 📫 How to reach me: .... you can contact me via ananthakrishnannairrs@gmail.com 
 
 
-
 `daily`
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
@@ -66,7 +65,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 # 📫 Reach out to me : 
-# [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/)
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/)
