@@ -42,7 +42,6 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
 
 
-
 # Projects
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="40%" height="90%"/>](https://github.com/akrish4/php-work)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Python-Simple-Chat-Bot)
