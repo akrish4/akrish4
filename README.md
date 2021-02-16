@@ -20,8 +20,6 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 
  ![Ananthakrishnan Nair RS's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true&show_icons=true)
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
-
-
  
 # Languages and Tools:
 
