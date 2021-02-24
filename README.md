@@ -7,7 +7,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 - 🔭 I’m currently working on ....***ml***
 - 🌱 I’m currently learning .... **python**
 - 👯 I’m looking to collaborate on .... **open source projects**
-- 🤔 I’m looking for help with .... **ml** *and* **js**
+- 🤔 I’m looking for help with .... **ml** *&* **js**
 - 💬 Ask me about .... ***SQL*,*python*, *cpp***
 - 📫 How to reach me: .... you can contact me via ananthakrishnannairrs@gmail.com 
 
