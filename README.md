@@ -20,7 +20,7 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
   <h1>GitHub Statistics :bar_chart: </h1>
 
 <img src="https://komarev.com/ghpvc/?username=akrish4" alt="akrish4" />
-
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=tokyonight&layout=compact)](https://github.com/akrish4/akrish4.git) ![Ananthakrishnan's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true&show_icons=true)
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
@@ -52,12 +52,13 @@ A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE disci
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Guess_Number&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Guess_Number)
 
 
+<div align="center">
+  <h1>Connect With Me :inbox_tray: </h1>
 
-
-# 📫 Reach out to me : 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/)
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/)
 
+</div>
