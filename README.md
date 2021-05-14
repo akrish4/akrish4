@@ -12,10 +12,14 @@
 - 💬 Ask me about .... ***SQL*,*python*, *cpp***
 - 📫 How to reach me: <a href = "mailto: ananthakrishnannairrs@gmail.com">Email</a>
 
-
+<div align="center">
+  
+  `daily`
+  
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-`daily`
 
+
+</div>
 
 <div align="center">
   <h1>GitHub Statistics :bar_chart: </h1>
