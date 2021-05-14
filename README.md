@@ -3,13 +3,14 @@
 <h3 align="center">A   student developer 🤓 from India 🇮🇳</h3>
 
 # Me 👨‍💻 
-A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software. 
+**A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software.**
+
 - 🔭 I’m currently working on ....***ml***
 - 🌱 I’m currently learning .... **python**
 - 👯 I’m looking to collaborate on .... **open source projects**
 - 🤔 I’m looking for help with .... **ml** *&* **js**
 - 💬 Ask me about .... ***SQL*,*python*, *cpp***
-- 📫 How to reach me: .... you can contact me via ananthakrishnannairrs@gmail.com 
+- 📫 How to reach me: <a href = "mailto: ananthakrishnannairrs@gmail.com">Email</a>
 
 
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
