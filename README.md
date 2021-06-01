@@ -32,6 +32,8 @@
 
 [![Ananthakrishnan's github activity graph](https://activity-graph.herokuapp.com/graph?username=akrish4&theme=react-dark)](https://github.com/akrish4)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrish4&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+
 </div>
 
 
@@ -72,3 +74,5 @@
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/)
 
 </div>
+
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/akrihs4?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=akrish4&logoColor=blue" /></a></h4>
