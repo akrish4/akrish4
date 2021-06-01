@@ -75,4 +75,4 @@
 
 </div>
 
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/akrihs4?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=akrish4&logoColor=blue" /></a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/akrish4?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=akrish4&logoColor=blue" /></a></h4>
