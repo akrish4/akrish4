@@ -44,6 +44,7 @@
 
 ![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/yarn-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/octicons/mark-github.svg?size=55&color=949494) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
 
+  
 </div>
 
 <hr>
