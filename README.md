@@ -31,8 +31,10 @@
 
  <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akrish4&theme=tokyonight" />
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=akrish4&theme=tokyonight" />
+  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=tokyonight&layout=compact" />
+	
 </p>
   
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
