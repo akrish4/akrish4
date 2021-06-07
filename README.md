@@ -27,13 +27,19 @@
 
 <img src="https://komarev.com/ghpvc/?username=akrish4" alt="akrish4" />
 <br><br>
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=tokyonight&layout=compact)](https://github.com/akrish4/akrish4.git) ![Ananthakrishnan's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true&show_icons=true)
+ <p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akrish4&theme=tokyonight" />
+</p>
+  
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
 
 [![Ananthakrishnan's github activity graph](https://activity-graph.herokuapp.com/graph?username=akrish4&theme=react-dark)](https://github.com/akrish4)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrish4&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=tokyonight&layout=compact)](https://github.com/akrish4/akrish4.git) 
 
 </div>
 
@@ -76,3 +82,5 @@
 <br>
 
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/akrish4?tab=repositories'><img align='center'  height="28" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=akrish4&logoColor=blue" /></a></h4>
+
+ ![Ananthakrishnan's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true&show_icons=true)
