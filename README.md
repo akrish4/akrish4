@@ -31,9 +31,9 @@
 
  <p align="center">
 	
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=akrish4&theme=tokyonight" />
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=tokyonight&layout=compact" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=akrish4&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=akrish4&theme=tokyonight" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=tokyonight&layout=compact" />
 	
 </p>
   
@@ -41,9 +41,7 @@
 
 [![Ananthakrishnan's github activity graph](https://activity-graph.herokuapp.com/graph?username=akrish4&theme=react-dark)](https://github.com/akrish4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrish4&theme=tokyonight&layout=compact)](https://github.com/akrish4/akrish4.git) 
 
-</div>
 
 
 
