@@ -83,4 +83,4 @@
 
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/akrish4?tab=repositories'><img align='center'  height="28" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=akrish4&logoColor=blue" /></a></h4>
 
- ![Ananthakrishnan's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true&show_icons=true)
+ <!--![Ananthakrishnan's github stats](https://github-readme-stats.vercel.app/api?username=akrish4&theme=chartreuse-dark&count_private=true&show_icons=true)-->
