@@ -2,7 +2,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ananthakrishnan Nair RS</h1>
 <h3 align="center">A   student developer😃 from India 🇮🇳</h3>
 
-
 # Me 👨‍💻 
 **A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software.**
 
