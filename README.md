@@ -43,8 +43,10 @@
 [![Ananthakrishnan's github activity graph](https://activity-graph.herokuapp.com/graph?username=akrish4&theme=react-dark)](https://github.com/akrish4)
 
 
+	
 
 
+	
 
 <div align="center">
   <h1>Tech Skills :computer: </h1>
@@ -71,6 +73,9 @@
 
 </div>
 
+	
+	
+	
 <hr>
 
 <div align="center">
