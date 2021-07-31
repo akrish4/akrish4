@@ -3,7 +3,6 @@
 	
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=akrish4&color=ff69b4&label=visitors&style=flat-square" align="right" />
 **A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software.**
-
 	
 - 🔭 I’m currently working on ....***ml***
 - 🌱 I’m currently learning .... **python**
