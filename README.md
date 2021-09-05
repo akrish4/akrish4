@@ -4,6 +4,7 @@
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=akrish4&color=ff69b4&label=visitors&style=flat-square" align="right" />
 **A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software.**
 	
+	
 - 🔭 I’m currently working on ....***ml***
 - 🌱 I’m currently learning .... **python**
 - 👯 I’m looking to collaborate on .... **open source projects**
@@ -83,7 +84,6 @@
   
 </div>
 
-
 <div align="center">
    <h1>Projects </h1>
   
@@ -97,7 +97,6 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Guess_Number&theme=tokyonight" width="46%" height="97%"/>](https://github.com/akrish4/Guess_Number)
 
 </div>
-
 
 <div align="center">
   <h1>Connect With Me :inbox_tray: </h1>
