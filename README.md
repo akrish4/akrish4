@@ -23,7 +23,6 @@
 <div align="center">
   <h1>GitHub Statistics :bar_chart: </h1>
 
-
 <div align="center">
   <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
